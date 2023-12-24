@@ -7,3 +7,4 @@ export default function status(man) {
   }
   return "critical";
 }
+
