@@ -4,7 +4,7 @@ branches:
   only:
     - master
 cache: node_modules
-intasll:
+install:
   - npm install
 build: off
 test_script:
