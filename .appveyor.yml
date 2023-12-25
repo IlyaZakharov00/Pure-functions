@@ -1,8 +1,0 @@
-image: Ubuntu1804
-stack: node 12
-branches:
-only: -master
-cache: node_modules
-intasll: -npm install
-build: off
-test_script: - npm run lint && npm test
